@@ -75,6 +75,15 @@
     line-height: 125%;
 }
 
+.CenterBodyText{
+    font-family: CMR;
+    font-size: 23px;
+    text-align: Center;
+    margin-top: 13px;
+    margin-bottom: 45px;
+    line-height: 125%;
+}
+
 .footerSize{
     height: 30vh;
     width: 100%;
